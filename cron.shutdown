@@ -1,0 +1,2 @@
+5-55/10 * * * * root /usr/bin/flock -n /tmp/shutdown.lock /opt/shutdown/shutdown.sh 
+
